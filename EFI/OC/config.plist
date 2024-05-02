@@ -1289,7 +1289,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=3 -wegnoegpu</string>
+				<string>-v keepsyms=1 debug=0x100  alcid=3 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1360,23 +1360,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02423130GUG2Y7JA</string>
+			<string>C02551600GUGPF7UE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>ABRRmiY+</data>
+			<data>GPZDcyrp</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac15,1</string>
+			<string>iMac17,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02MTBY8FY10</string>
+			<string>C02QV0N2GG7L</string>
 			<key>SystemUUID</key>
-			<string>F80E8B78-6DC3-4477-899C-D243C061DA0A</string>
+			<string>9C10FD1A-6715-4EB3-B25B-A86615F8837A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
